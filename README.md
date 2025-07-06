@@ -14,8 +14,8 @@ Multiple, not overly intrusive creatures:
 - Man From The Fog
 - The Knocker
 - Herobrine
-...
-T̸̮͚̀̋͘H̵̝͛̊̈͜E̵͓͕̔̃̅̚͜ ̴̧͚̝̥̽͘͜F̸̺̼̣̈́̊̚Ï̸̙̲̐̑͗̄G̵̡̍U̶̮͉͎̩͂͜͠Ŗ̴̥͋̒É̶͔͚̹̝S̸̫̬͖͓͇̍͗
+- ...
+- T̸̮͚̀̋͘H̵̝͛̊̈͜E̵͓͕̔̃̅̚͜ ̴̧͚̝̥̽͘͜F̸̺̼̣̈́̊̚Ï̸̙̲̐̑͗̄G̵̡̍U̶̮͉͎̩͂͜͠Ŗ̴̥͋̒É̶͔͚̹̝S̸̫̬͖͓͇̍͗
 
 
 ## Recommendations
