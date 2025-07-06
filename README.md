@@ -10,10 +10,10 @@ An immersive environment with sound physics and ambient noises to keep you paran
 Voice chat, with added radio communications for long distance communication. Build the radiotower of your dreams!
 Essentials mod to simplify playing with friends. Nobody wants to waste hours setting up a dedicated server.
 Multiple, not overly intrusive creatures:
-Cave Dweller
-Man From The Fog
-The Knocker
-Herobrine
+- Cave Dweller
+- Man From The Fog
+- The Knocker
+- Herobrine
 ...
 T̸̮͚̀̋͘H̵̝͛̊̈͜E̵͓͕̔̃̅̚͜ ̴̧͚̝̥̽͘͜F̸̺̼̣̈́̊̚Ï̸̙̲̐̑͗̄G̵̡̍U̶̮͉͎̩͂͜͠Ŗ̴̥͋̒É̶͔͚̹̝S̸̫̬͖͓͇̍͗
 
